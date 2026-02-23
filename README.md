@@ -7,7 +7,7 @@
   
 </div>
 
-# **ShrikeLab PSU** - 5 & 10 port USB-C PSUs for 10" and 19" racks
+# **ShrikeLab PSU** - 5 & 10 port USB-C based PSUs for 10" and 19" racks
 These PSUs are power delivery solutions for micro PC clusters and homelabs that suits both 10" and 19" racks. All varients are built around an off-the-shelf PSU featuring either 5 or 10 USB-C power delivery ports in either sheet metal, or 3D printed enclosures. 
 
 ---
@@ -15,7 +15,7 @@ These PSUs are power delivery solutions for micro PC clusters and homelabs that 
 <div align="center">
   <a
     href="https://www.Shrikelab.co" title="Kits and PCBs available now!">Kits and PCBs available now!
-  </a>
+  </a>  
 </div>
 
 ---
