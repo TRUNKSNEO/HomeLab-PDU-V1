@@ -1,18 +1,22 @@
 <div align="center">
   <img alt="Shrike Lab logo"
-       src="https://raw.githubusercontent.com/Shrike-Lab/MiniLab-PSU/main/IMG/Logo/ShrikeLabCo_Footer_W_HiRes.png"
-       height="28">
+       src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/ShrikeLabCo_Footer_W_HiRes.png?raw=true"
+       height="100">
+  
+  [Website](https://www.shrikelab.co) | [YouTube](https://www.youtube.com/@ShrikeLab)
+  
 </div>
 
 
 # **ShrikeLab PSU** - 5 & 10 port USB-C based PSUs for 10" and 19" racks
 ShrikeLab is a power delivery solution for micro PC clusters and homelabs that suits both 10" and 19" racks. It's built around a 300W Meanwell PSU featuring either 5 or 10 USB-C power delivery ports and active cooling. 
 
+---
 ### Kits and PCBs available now! [Shrikelab.co](https://www.Shrikelab.co) ###
 ---
 
 <p float="left">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/All_Iso_Render.png" width="100%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/All_Iso_Render.png" width="100%" /> 
 </p>
 
 <p float="center">
