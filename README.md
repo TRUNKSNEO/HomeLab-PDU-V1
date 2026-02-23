@@ -3,7 +3,7 @@
        src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/ShrikeLabCo_Footer_W_HiRes.png?raw=true"
        height="100">
   
-  [Website](https://www.shrikelab.co) | [YouTube](https://www.youtube.com/@ShrikeLab)
+  [Website](https://www.shrikelab.co) | [YouTube](https://www.youtube.com/@ShrikeLab) | [Patreon](https://www.patreon.com/cw/ShrikeLab)
   
 </div>
 
@@ -204,6 +204,7 @@ There is currently no option for a through-hole variant because the tranistor do
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
 
 
