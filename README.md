@@ -1,7 +1,7 @@
 <div align="center">
-  <img alt="Shrike Lab logo" src=https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/ShrikeLabCo_Footer_W_HiRes.png" height="28">
-
-  
+  <img alt="Shrike Lab logo"
+       src="https://raw.githubusercontent.com/Shrike-Lab/MiniLab-PSU/main/IMG/Logo/ShrikeLabCo_Footer_W_HiRes.png"
+       height="28">
 </div>
 
 
@@ -194,6 +194,7 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
 
 
