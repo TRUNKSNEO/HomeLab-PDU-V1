@@ -33,7 +33,7 @@ These PSUs are power delivery solutions for micro PC clusters and homelabs that 
 Mini and micro labs are a great solution for homelabbing, but the power delivery options are often bulky and hard to manage due to the need for an individual power brick per computer.
 This project addressess this by consolidating power delivery for up to five 65W micro PCs into a single unit that fits in a standard 1U 10-inch rack mount. This differs from a conventional multi-port USB PD hub by not needing to re-negotiate any power delivery voltages when a unit is turned off or unpluggded, or when the power load across ports changes drastically. Also the packing is designed specifially with rack mounting in mind, with active cooling and power switching.
 
-**Showcase & design video** [here](youtube.com)
+**Showcase & design video** [here](https://www.youtube.com/watch?v=8tTG0TBM7ts)
 
 **Follow-up and testing video** [here](youtube.com)
 
@@ -203,6 +203,7 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
 
 
