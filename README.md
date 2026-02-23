@@ -96,6 +96,7 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 <p float="left">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in_3D/10in_3D-Iso.png" width="60%" /> 
 </p>
+
 **Housing:**
 
 | Part                 | Source   | Quant | Link                             |
@@ -122,6 +123,7 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 <p float="left">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in_Dual/10in_Dual-Iso.png" width="60%" /> 
 </p>
+
 **Housing:*
 
 | Part                | Source   | Quant | Link                              |
@@ -141,23 +143,11 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 |      |        |       |      |
 
 
-#### 19in_Dual:
-**Housing:**
-
-| Part                  | Source   | Count | Link                                |
-| --------------------- | -------- | ----- | ----------------------------------- |
-| 19in_Dual-Tray.stp    | Metal    | 1     | CAD/19in_Dual/19in_Dual-Tray.stp    |
-| 19in_Dual-Lid.stp     | Metal    | 1     | CAD/19in_Dual/19in_Dual-Lid.stp     |
-| 19in_Dual-Front_1.stl | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Front_1.stl |
-| 19in_Dual-Front_2.stl | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Front_2.stl |
-| 19in_Dual-Rear_1.stl  | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Rear_1.stl  |
-| 19in_Dual-Rear_2.stl  | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Rear_2.stl  |
-| IEC_Bracket.stl       | 3D Print | 2     | CAD/Universal/IEC_Bracket.stl       |
-| PCB_Tray.stl          | 3D Print | 2     | CAD/Universal/PCB_Tray.stl          |
-**Hardware:**
-
-
 #### 19in_Single:
+<p float="left">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in_Single/19in_Single-Iso.png" width="60%" /> 
+</p>
+
 **Housing:**
 
 | Part                    | Source   | Count | Link                                    |
@@ -175,12 +165,27 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 
 
 
+#### 19in_Dual:
+<p float="left">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in_Dual/19in_Dual-Iso.png" width="60%" /> 
+</p>
+
+**Housing:**
+
+| Part                  | Source   | Count | Link                                |
+| --------------------- | -------- | ----- | ----------------------------------- |
+| 19in_Dual-Tray.stp    | Metal    | 1     | CAD/19in_Dual/19in_Dual-Tray.stp    |
+| 19in_Dual-Lid.stp     | Metal    | 1     | CAD/19in_Dual/19in_Dual-Lid.stp     |
+| 19in_Dual-Front_1.stl | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Front_1.stl |
+| 19in_Dual-Front_2.stl | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Front_2.stl |
+| 19in_Dual-Rear_1.stl  | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Rear_1.stl  |
+| 19in_Dual-Rear_2.stl  | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Rear_2.stl  |
+| IEC_Bracket.stl       | 3D Print | 2     | CAD/Universal/IEC_Bracket.stl       |
+| PCB_Tray.stl          | 3D Print | 2     | CAD/Universal/PCB_Tray.stl          |
+**Hardware:**
 
 
-
-
-
-### PCB:
+# PCB:
 | Type      | Key                 | Value     | Quantity | Footprint         | Component       |
 | --------- | ------------------- | --------- | -------- | ----------------- | --------------- |
 | Capacitor | C1                  | 1000uF    | 1        | THT-CP_Radial_D10 |                 |
@@ -203,6 +208,7 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
 
 
