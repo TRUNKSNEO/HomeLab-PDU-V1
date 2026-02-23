@@ -8,14 +8,14 @@
 </div>
 
 # **ShrikeLab PSU** - 5 & 10 port USB-C based PSUs for 10" and 19" racks
-ShrikeLab is a power delivery solution for micro PC clusters and homelabs that suits both 10" and 19" racks. It's built around a 300W Meanwell PSU featuring either 5 or 10 USB-C power delivery ports and active cooling. 
+These PSUs are power delivery solutions for micro PC clusters and homelabs that suits both 10" and 19" racks. All varients are built around an off-the-shelf PSU featuring either 5 or 10 USB-C power delivery ports in either sheet metal, or 3D printed enclosures. 
 
 ---
 
 <div align="center">
-  <h3>
-    Kits and PCBs available now! [Shrikelab.co](https://www.Shrikelab.co)
-  </h1>
+  <a
+    href="https://www.Shrikelab.co" title="Kits and PCBs available now!">Kits and PCBs available now!
+  </a>
 </div>
 
 ---
@@ -203,6 +203,7 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
 
 
