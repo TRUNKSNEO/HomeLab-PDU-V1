@@ -23,7 +23,7 @@ These PSUs are power delivery solutions for micro PC clusters and homelabs that 
 </p>
 
 Mini and micro labs are a great solution for homelabbing, but the power delivery options are often bulky and hard to manage due to the need for an individual power brick per computer.
-This project addressess this by consolidating power delivery for up to five 65W micro PCs into a single unit that fits in a standard 1U 10-inch rack mount. This differs from a conventional multi-port USB PD hub by not needing to re-negotiate any power delivery voltages when a unit is turned off or unpluggded, or when the power load across ports changes drastically. Also the packing is designed specifially with rack mounting in mind, with active cooling and power switching.
+This project helps fix this by consolidating power delivery for up to 10 65W micro PCs into a single unit that fits in either a 10" or 19" 1U rack. This differs from a conventional multi-port USB PD hub by not needing to re-negotiate any power delivery voltages when a unit is turned off or unplugged, or when the power load across ports changes drastically. Also the packaging is designed specifially for rack mounting, with active cooling and simple power switching.
 
 **Showcase & design video** [here](https://www.youtube.com/watch?v=8tTG0TBM7ts)
 
@@ -42,7 +42,8 @@ This project addressess this by consolidating power delivery for up to five 65W 
 
 # Variants:
 
-## 10 Inch - Single
+## 10 Inch - Single:
+The original 10" enclosure, a sheet metal body + lid make up the housing, with a 3D printed front and rear. 5 outputs.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Single/10in-Single-B.png" width="80%" /> 
 </p>
@@ -53,7 +54,8 @@ This project addressess this by consolidating power delivery for up to five 65W 
 <br>
 <br>
 
-## 10 Inch - 3D Printed - Unibody
+## 10 Inch - 3D Printed - Unibody:
+10" printed unibody enclosure, made to be as easy as possible with minimal additional hardware, with the trade-off of print difficulty. No inserts required, all bolts thread directly into the print material. Small hatch for attaching button + fan and connecting wiring to PCB.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Uni/10in-Uni-B.png" width="80%" /> 
 </p>
@@ -64,7 +66,8 @@ This project addressess this by consolidating power delivery for up to five 65W 
 <br>
 <br>
 
-## 10 Inch - 3D Printed - Modular
+## 10 Inch - 3D Printed - Modular:
+10" printed enclosure, made to be more modular and modify-friendly but requires more M3 inserts and bolts to assebmle.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Mod/10in-Mod-B.png" width="80%" /> 
 </p>
@@ -75,7 +78,8 @@ This project addressess this by consolidating power delivery for up to five 65W 
 <br>
 <br>
 
-## 10 Inch - Dual
+## 10 Inch - Dual:
+10" enclosure for external PSU's. 10 outputs, intended for use with alternative power sources like battery or solar.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Dual/10in-Dual-B.png" width="80%" /> 
 </p>
@@ -86,7 +90,8 @@ This project addressess this by consolidating power delivery for up to five 65W 
 <br>
 <br>
 
-## 19 Inch - Single
+## 19 Inch - Single:
+19" inch version of 5 output variant. Additional space could be used for cable / tiny-mini-micro storage.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Single/19in-Single-B.png" width="80%" /> 
 </p>
@@ -97,7 +102,8 @@ This project addressess this by consolidating power delivery for up to five 65W 
 <br>
 <br>
 
-## 19 Inch - Dual
+## 19 Inch - Dual:
+19" with 10 outputs from 2 x internal assemblies.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Dual/19in-Dual-B.png" width="80%" /> 
 </p>
@@ -108,7 +114,8 @@ This project addressess this by consolidating power delivery for up to five 65W 
 <br>
 <br>
 
-## 19 Inch - SBS
+## 19 Inch - SBS:
+For people that couldn't possibly deal with a power input in the middle of the housing. One harness will require modification due to the layout.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-B.png" width="80%" /> 
 </p>
