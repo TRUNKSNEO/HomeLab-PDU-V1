@@ -42,6 +42,84 @@ This project addressess this by consolidating power delivery for up to five 65W 
 - Active cooling
 - Sheet metal housing or fully 3D printable
 
+# Variants:
+
+## 10 Inch - Single
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Single/10in-Single-B.png" width="80%" /> 
+</p>
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Single/10in-Single-A.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Single/10in-Single-C.png" width="40%" /> 
+</p>
+<br>
+<br>
+
+## 10 Inch - 3D Printed - Unibody
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Uni/10in-Uni-B.png" width="80%" /> 
+</p>
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Uni/10in-Uni-A.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Uni/10in-Uni-C.png" width="40%" /> 
+</p>
+<br>
+<br>
+
+## 10 Inch - 3D Printed - Modular
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Mod/10in-Mod-B.png" width="80%" /> 
+</p>
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Mod/10in-Mod-A.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Mod/10in-Mod-C.png" width="40%" /> 
+</p>
+<br>
+<br>
+
+## 10 Inch - Dual
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Dual/10in-Dual-B.png" width="80%" /> 
+</p>
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Dual/10in-Dual-A.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Dual/10in-Dual-C.png" width="40%" /> 
+</p>
+<br>
+<br>
+
+## 19 Inch - Single
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Single/19in-Single-B.png" width="80%" /> 
+</p>
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Single/19in-Single-A.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Single/19in-Single-C.png" width="40%" /> 
+</p>
+<br>
+<br>
+
+## 19 Inch - Dual
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Dual/19in-Dual-B.png" width="80%" /> 
+</p>
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Dual/19in-Dual-A.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Dual/19in-Dual-C.png" width="40%" /> 
+</p>
+<br>
+<br>
+
+## 19 Inch - SBS
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-B.png" width="80%" /> 
+</p>
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-A.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-C.png" width="40%" /> 
+</p>
+<br>
+<br>
 
 
 # Assembly:
@@ -56,22 +134,6 @@ This project addressess this by consolidating power delivery for up to five 65W 
 | Heatsinks   | 7        | 10mmx10mm                              | https://www.aliexpress.com/item/10000038519525                                  |
 | PD Boards   | 5        |                                        | https://www.aliexpress.com/item/1005007016771773                                |
 
-
-# Variants:
-
-## 10 Inch - Single
-
-## 10 Inch - 3D - Unibody
-
-## 10 Inch - 3D - Modular
-
-## 10 Inch - Dual
-
-## 19 Inch - Single
-
-## 19 Inch - Dual
-
-## 19 Inch - SBS
 
 
 # PCB:
