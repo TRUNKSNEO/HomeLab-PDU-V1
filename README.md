@@ -55,7 +55,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 
 ## 10 Inch - 3D Printed - Unibody:
-10" printed unibody enclosure, made to be as easy as possible with minimal additional hardware, with the trade-off of print difficulty. No inserts required, all bolts thread directly into the print material. Small hatch for attaching button + fan and connecting wiring to PCB.
+10" printed unibody enclosure, made to be as easy as possible with minimal additional hardware, with the trade-off of being a little harder to print. No inserts required, all bolts thread directly into the print material. Small hatch for attaching button + fan and connecting wiring to PCB.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Uni/10in-Uni-B.png" width="80%" /> 
 </p>
@@ -125,6 +125,11 @@ For people that couldn't possibly deal with a power input in the middle of the h
 </p>
 <br>
 <br>
+
+# Sub-Assemblies:
+## PCB Tray:
+All non-3D printed variants use the PCB tray sub-assembly. This tray makes soldering the daughter boards easier, and allows the board to be removed from the chassis without a major hassle.
+
 
 
 # Assembly:
