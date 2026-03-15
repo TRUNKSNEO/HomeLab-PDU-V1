@@ -67,7 +67,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 
 ## 10 Inch - 3D Printed - Modular:
-10" printed enclosure, made to be more modular and modify-friendly but requires more M3 inserts and bolts to assebmle.
+10" printed enclosure, made to be more modular and mod-friendly but requires more M3 inserts and bolts to assebmle.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Mod/10in-Mod-B.png" width="80%" /> 
 </p>
@@ -79,7 +79,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 
 ## 10 Inch - Dual:
-10" enclosure for external PSU's. 10 outputs, intended for use with alternative power sources like battery or solar.
+10" enclosure for external PSU's. 10 outputs, intended for use with alternative power sources like battery or solar, or for up-cycling external 300W PSUs.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Dual/10in-Dual-B.png" width="80%" /> 
 </p>
