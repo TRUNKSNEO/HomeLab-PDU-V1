@@ -135,18 +135,6 @@ All non-3D printed variants use the PCB tray sub-assembly. This tray makes solde
 </p>
 
 
-# Assembly:
-## Components
-
-| Part        | Quantity | Notes                                  | Link                                                                            |
-| ----------- | -------- | -------------------------------------- | ------------------------------------------------------------------------------- |
-| HRP-300-24  | 1        | Meanwell                               | https://www.digikey.com/en/products/detail/mean-well-usa-inc/HRP-300-24/7704305 |
-| 16mm Button | 1        | Latching 24v                           | -                                                                               |
-| 40mm Fan    | 2        | One unless the PSU fan is replaced too | -                                                                               |
-| LM2596      | 1        | Buck converter                         | https://www.aliexpress.com/item/1005010001439374                                |
-| Heatsinks   | 7        | 10mmx10mm                              | https://www.aliexpress.com/item/10000038519525                                  |
-| PD Boards   | 5        |                                        | https://www.aliexpress.com/item/1005007016771773                                |
-
 
 
 # PCB:
