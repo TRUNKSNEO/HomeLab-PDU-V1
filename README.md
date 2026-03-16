@@ -115,7 +115,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 
 ## 19 Inch - SBS:
-For people that couldn't possibly deal with a power input in the middle of the housing, this version has matching components side-by-side so inputs and outputs can be coordinated easier. One harness will require modification due to the layout.
+For people that couldn't possibly deal with a power input in the middle of the housing, this version has matching components side-by-side so inputs and outputs can be coordinated easier. One harness will require extending due to the layout.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-B.png" width="80%" /> 
 </p>
@@ -123,6 +123,7 @@ For people that couldn't possibly deal with a power input in the middle of the h
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-A.png" width="40%" /> 
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-C.png" width="40%" /> 
 </p>
+
 <br>
 <br>
 
@@ -130,15 +131,34 @@ For people that couldn't possibly deal with a power input in the middle of the h
 ## PCB Tray:
 All non-3D printed variants use the PCB tray sub-assembly. This tray makes soldering the daughter boards easier, and allows the board to be removed from the chassis easier.
 <p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Bracket.png" width="48%" /> 
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-SubAssembly.png" width="48%" />
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Bracket.png" width="33%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly.png" width="33%" />
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-SubAssembly.png" width="33%" />
 </p>
 
+## PCB Assembly Bracket:
+If additional assitance is required during assembly, this bracket (Yellow) can be printed to hold the boards in place. It's then removed when the assembly is installed into a chassis.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Bracket.png" width="45%" /> 
+</p>
 
+## Daughter-Board Reinforcement:
+Once the daughter boards are attached to the main PCB, this reinforcement bracket (Gray) can be mounted to stop boards shifting over time.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Reinforcement.png" width="45%" /> 
+</p>
 
+## IEC Plug:
+All 19" variants use the IEC plug subassembly to allow for a detachable cable.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/IEC-Bracket.png" width="45%" /> 
+</p>
+
+<br>
+<br>
 
 # PCB:
-All variants use the same 2 layer 1.6mm PCB. 'PCB' folder contains production files that can be uploaded to a PCB service like JLCPCB or PCBway. PCB assembly is recommended unless you have capability to do reflow, or hot air soldering.
+All variants use the same 2 layer 1.6mm PCB. 'PCB' folder contains production files that can be uploaded to a PCB service for manufacturing, JLCPCB is my go-to. PCB assembly is recommended unless you have capability to do reflow, or hot air soldering.
 There is currently no option for a through-hole variant because the tranistor does not come in that package.
 
 
