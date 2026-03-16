@@ -173,3 +173,5 @@ Commercial use is not permitted without separate written permission.
 
 Editable source design files may not be provided; this repository may include manufacturing or export files only.
 
+Learn more [here.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+
