@@ -58,7 +58,6 @@ See point in video
 
 
 <br>
-<br>
 
 # Variants:
 
@@ -71,7 +70,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Single/10in-Single-A.png" width="40%" /> 
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Single/10in-Single-C.png" width="40%" /> 
 </p>
-<br>
+
 <br>
 
 ## 10 Inch - 3D Printed - Unibody:
@@ -83,7 +82,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Uni/10in-Uni-A.png" width="40%" /> 
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Uni/10in-Uni-C.png" width="40%" /> 
 </p>
-<br>
+
 <br>
 
 ## 10 Inch - 3D Printed - Modular:
@@ -95,7 +94,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Mod/10in-Mod-A.png" width="40%" /> 
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Mod/10in-Mod-C.png" width="40%" /> 
 </p>
-<br>
+
 <br>
 
 ## 10 Inch - Dual:
@@ -107,7 +106,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Dual/10in-Dual-A.png" width="40%" /> 
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Dual/10in-Dual-C.png" width="40%" /> 
 </p>
-<br>
+
 <br>
 
 ## 19 Inch - Single:
@@ -119,7 +118,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Single/19in-Single-A.png" width="40%" /> 
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Single/19in-Single-C.png" width="40%" /> 
 </p>
-<br>
+
 <br>
 
 ## 19 Inch - Dual:
@@ -131,7 +130,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Dual/19in-Dual-A.png" width="40%" /> 
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Dual/19in-Dual-C.png" width="40%" /> 
 </p>
-<br>
+
 <br>
 
 ## 19 Inch - SBS:
@@ -144,7 +143,6 @@ For people that couldn't possibly deal with a power input in the middle of the h
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-C.png" width="40%" /> 
 </p>
 
-<br>
 <br>
 
 # Disclaimer:
