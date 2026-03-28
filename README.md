@@ -3,9 +3,19 @@
        src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/ShrikeLabCo_Footer_W_HiRes.png?raw=true"
        height="100">
   
-  [Website](https://www.shrikelab.co) | [YouTube](https://www.youtube.com/@ShrikeLab) | [Patreon](https://www.patreon.com/cw/ShrikeLab)
+  [Website](https://www.shrikelab.co) | [YouTube](https://www.youtube.com/@ShrikeLab)
   
 </div>
+<p align="center">
+  <a href="https://patreon.com/shrikelab">
+    <img src="https://img.shields.io/badge/Patreon-Support-FF424D?logo=patreon&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://ko-fi.com/shrikelab">
+    <img src="https://img.shields.io/badge/Ko--fi-Support-29ABE0?logo=kofi&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+
 
 # **ShrikeLab PDU V1** - 5 & 10 port USB-C PDUs for 10" and 19" racks
 These PSUs are power delivery solutions for micro PC clusters and homelabs that suits both 10" and 19" racks. All variants are built around a Meanwell HRP-300-24 featuring either 5 or 10 USB-C power delivery ports enclosed in sheet metal or 3D printed ABS/ASA housings. 
