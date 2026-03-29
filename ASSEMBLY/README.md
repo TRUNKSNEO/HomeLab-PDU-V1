@@ -6,7 +6,6 @@ This section contains the bill of materials for each variant, as well as renders
 | Component          | Quantity | Link/Location |
 | ------------------ | -------- | ------------- |
 | PDU PCB Ver 1.0    | 1        |               |
-| PCB Bracket        | 1        |               |
 | USB-C 65W PD Board | 5        |               |
 | Heatsink           | 5        |               |
 | PCB Reinforement   | 1        |               |
@@ -16,7 +15,7 @@ This section contains the bill of materials for each variant, as well as renders
 <br>
 
 ## Sub-Assemblies:
-All variants apart from the two 3D printed versions, use a PCB tray sub-assemmbly that doubles as a bracket when soldering the daughter-boards to the break-out PCB.
+Some variants have sub-assemblies that are shared.
 
 
 <br>
@@ -37,31 +36,31 @@ All non-3D printed variants use the PCB tray sub-assembly. This tray makes solde
 | PCB Reinforement   | 1        |               |
 | Buck Converter     | 1        |               |
 
-<br>
-
-### PCB Assembly Bracket:
-If additional assitance is required during assembly, this bracket (Yellow) can be printed to hold the boards in place. It's then removed when the assembly is installed into a chassis.
-<p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Bracket.png" width="45%" /> 
-</p>
-
-<br>
-
-### Daughter-Board Reinforcement:
-Once the daughter boards are attached to the main PCB, this reinforcement bracket (Gray) can be mounted to stop boards shifting after repeat use.
-<p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Reinforcement.png" width="45%" /> 
-</p>
 
 ### IEC Plug:
-All 19" variants use the IEC plug subassembly to allow for a detachable cable.
+Due to the extra depth allowed on full racks, all 19" variants use the IEC plug sub-assembly to allow for a detachable cable.
+
+| Component          | Quantity | Link/Location |
+| ------------------ | -------- | ------------- |
+| IEC Plug           | 1        |               |
+| IEC Bracket        | 1        |               |
+| M3 Insert          | 4        |               |
+| M3 Cap Head Bolt - 5mm  | 4   |               |
+
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/IEC-Bracket.png" width="45%" /> 
 </p>
-
 
 
 # 10 
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/IEC-Bracket.png" width="45%" /> 
+</p>
+
+
+
+### PCB Assembly Bracket:
+If additional assitance is required during assembly, this bracket (Yellow) can be printed to hold the boards in place. It's then removed when the assembly is installed into a chassis.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Bracket.png" width="45%" /> 
 </p>
