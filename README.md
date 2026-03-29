@@ -52,7 +52,7 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 
 <br>
 
-### Content:
+### Repo Content:
 - **Assembly** - Assembly and sub-assembly guide
 - **CAD** - CAD files for all varients, universal files and drawings of components
   - **Drawings** - Drawings of components and wiring
