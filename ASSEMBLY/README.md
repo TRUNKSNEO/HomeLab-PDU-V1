@@ -82,6 +82,7 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 | Body       | 10in_Uni-Body.stl  | 3D Print (ABS/ASA) | 1        |
 | Tray       | 10in_Uni-Tray.stl  | 3D Print (ABS/ASA) | 1        |
 | Side Panel | 10in_Uni-SidePanel | 3D Print (ABS/ASA) | 1        |
+[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Single)
 
 #### **Hardware**
 
@@ -101,7 +102,7 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | Body       | 10in_Uni-Body.stl  | 3D Print (ABS/ASA) | 1        |               |
 | Tray       | 10in_Uni-Tray.stl  | 3D Print (ABS/ASA) | 1        |               |
 | Side Panel | 10in_Uni-SidePanel | 3D Print (ABS/ASA) | 1        |               |
-[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Single)
+[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_3D_Unibody)
 
 #### **Hardware**
 
@@ -145,6 +146,12 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | PCB Tray | 2        |
 
 #### **Housing:**
+| Item  | File Name           | Material           | Quantity |
+| ----- | ------------------- | ------------------ | -------- |
+| Tray  | 10in_Dual-Tray.stp  | Sheel Metal        | 1        |
+| Lid   | 10in_Dual-Lid.stp   | Sheel Metal        | 1        |
+| Front | 10in_Dual-Front.stl | 3D Print (ABS/ASA) | 1        |
+| Back  | 10in_Dual-Back.stl  | 3D Print (ABS/ASA) | 1        |
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Dual)
 
 #### **Hardware**
@@ -191,6 +198,15 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | IEC Plug | 2        |
 
 #### **Housing:**
+| Item    | File Name             | Material           | Quantity |
+| ------- | --------------------- | ------------------ | -------- |
+| Tray    | 19in_Dual-Tray.stp    | Sheel Metal        | 1        |
+| Lid     | 19in_Dual-Lid.stp     | Sheel Metal        | 1        |
+| Front-1 | 19in_Dual-Front_1.stl | 3D Print (ABS/ASA) | 1        |
+| Front-2 | 19in_Dual-Front_2.stl | 3D Print (ABS/ASA) | 1        |
+| Back-1  | 19in_Dual-Back_1.stl  | 3D Print (ABS/ASA) | 1        |
+| Back-2  | 19in_Dual-Back_2.stl  | 3D Print (ABS/ASA) | 1        |
+| Divider | 19in_Dual-Divider.stl | 3D Print (ABS/ASA) | 1        |
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual)
 
 #### **Hardware**
@@ -209,6 +225,15 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | IEC Plug | 2        |
 
 #### **Housing:**
+| Item    | File Name                 | Material           | Quantity |
+| ------- | ------------------------- | ------------------ | -------- |
+| Tray    | 19in_Dual_SBS-Tray.stp    | Sheel Metal        | 1        |
+| Lid     | 19in_Dual_SBS-Lid.stp     | Sheel Metal        | 1        |
+| Front-1 | 19in_Dua_SBSl-Front_1.stl | 3D Print (ABS/ASA) | 1        |
+| Front-2 | 19in_Dual_SBS-Front_2.stl | 3D Print (ABS/ASA) | 1        |
+| Back-1  | 19in_Dual_SBS-Back_1.stl  | 3D Print (ABS/ASA) | 1        |
+| Back-2  | 19in_Dual_SBS-Back_2.stl  | 3D Print (ABS/ASA) | 1        |
+| Divider | 19in_Dual_SBS-Divider.stl | 3D Print (ABS/ASA) | 1        |
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual_SBS)
 
 #### **Hardware**
