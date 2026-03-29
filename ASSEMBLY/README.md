@@ -159,7 +159,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 #### **Sub-Assemblies:**
 | Assembly | Quantity |
 | -------- | -------- |
-| PCB Tray | 2        |
+| [PCB Tray](README.md#pcb-tray) | 2        |
 
 #### **Housing:**
 | Item  | File Name           | Material           | Quantity |
@@ -188,8 +188,8 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 #### **Sub-Assemblies:**
 | Assembly | Quantity |
 | -------- | -------- |
-| PCB Tray | 1        |
-| IEC Plug | 1        |
+| [PCB Tray](README.md#pcb-tray) | 1        |
+| [IEC Plug](README.md#iec-plug) | 1        |
 
 #### **Housing:**
 | Item    | File Name               | Material           | Quantity |
@@ -223,8 +223,8 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 #### **Sub-Assemblies:**
 | Assembly | Quantity |
 | -------- | -------- |
-| PCB Tray | 2        |
-| IEC Plug | 2        |
+| [PCB Tray](README.md#pcb-tray) | 2        |
+| [IEC Plug](README.md#iec-plug) | 2        |
 
 #### **Housing:**
 | Item    | File Name             | Material           | Quantity |
@@ -257,8 +257,8 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 #### **Sub-Assemblies:**
 | Assembly | Quantity |
 | -------- | -------- |
-| PCB Tray | 2        |
-| IEC Plug | 2        |
+| [PCB Tray](README.md#pcb-tray) | 2        |
+| [IEC Plug](README.md#iec-plug) | 2        |
 
 #### **Housing:**
 | Item    | File Name                 | Material           | Quantity |
