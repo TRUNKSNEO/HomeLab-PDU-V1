@@ -71,7 +71,7 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 #### **Sub-Assemblies:**
 | Assembly | Quantity |
 | -------- | -------- |
-| PCB Tray | 1        |
+| [PCB Tray](README.md#pcb-tray) | 1        |
 
 #### **Housing:**
 | Item  | File Name             | Material           | Quantity |
