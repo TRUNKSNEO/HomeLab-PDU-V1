@@ -4,15 +4,18 @@ There is currently no option for a through-hole variant because the tranistor do
 
 
 **Parameters for PCB manufacturing:**
-- 2 Oz copper trace weight - This is a must for the current rating
+- 2 Oz copper trace weight - This is a must for current rating
 - 1.6mm PCB thickness
+
+<br>
 
 ### PCB Notes:
 - You can use either an LM2596S or and MP1584EN. Just move the mounting headers to the corresponding holes.
-- Connectors J19, J20, J21, J22 are optional, used for additional power output, or for testing.
+- Connectors J19, J20, J21, J22 are optional. Either used for additional power output, or testing.
 
+<br>
 
-### PCB Component BOM:
+## PCB Component BOM:
 
 | Type      | Key                  | Value     | Footprint         | Quantity | Component       | Commment         |
 | --------- | -------------------- | --------- | ----------------- | -------- | --------------- | ---------------- |
@@ -27,7 +30,7 @@ There is currently no option for a through-hole variant because the tranistor do
 | Resistor  | R4                   | 100k      | 0603              | 1        | -               | -                |
 | Diode     | D1,D2,D3,D4,D5       | SMBJ26A   | D_SMB             | 5        | -               | -                |
 | Diode     | D6                   | SMCJ26A   | D_SMC             | 1        | -               | -                |
-| Diode     | D7                   | 12v Zener | SOD-123           | 1        | BZT52C12        | -                |
+| Diode     | D7                   |     Zener | SOD-123           | 1        | BZT52C12        | -                |
 | Fuse      | F1                   | 15A       | 2410              | 1        | 0451020.MRL     | -                |
 | Fuse      | F2,F3,F4F5,F6        | 3A        | 1206              | 5        | 1206FA-4A       | -                |
 | Connector | J1,J2                | -         | Molex_5569-06A2   | 2        | Molex_5569-06A2 | Power and button |

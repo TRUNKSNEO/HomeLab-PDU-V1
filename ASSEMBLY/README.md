@@ -1,7 +1,10 @@
 # Assembly:
 This section contains the bill of materials for each variant, as well as renders and exploded views of the sub-assemblies.
 
-- All CAD files have been exported as an STL for printing, along with an STP for editing.
+- For 3D printing all files have been exported as an STL
+- Blank parts have been exported as an STP to help editing
+- Metal parts are exported as an STP
+- As the metal housing lids require tapping, there is an engineering drawing in the [drawings folder](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/DRAWINGS/Hardware)
 
 **All variants contain the following components:**
 
