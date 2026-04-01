@@ -32,7 +32,7 @@ There are two harnesses per set of internal electronics, one for main power and 
 | Ring spade    | 24V Power          | 9                     | https://www.digikey.com/en/products/detail/molex/0193240008/3884473                                      |
 | PCB Connector | 24V Power & Button | 2                     | https://www.digikey.com/en/products/detail/molex/0039012060/61379?s=N4IgTCBcDaIOoFkDMB2ADGAtAOQCIgF0BfIA |
 | Crimp         | 24V Power & Button | 12                    | https://www.digikey.com/en/products/detail/molex/0039000039/61448?s=N4IgTCBcDaIOoFkwFYAMBGAtAOQCIgF0BfIA |
-| IEC Terminals | Mains Power        | 5                     | https://www.digikey.com/en/products/detail/molex/0190030011/279039                                       |
+| IEC Terminals | Mains Power        | 7                     | https://www.digikey.com/en/products/detail/molex/0190030011/279039                                       |
 
 <br>
 
