@@ -12,6 +12,17 @@ There is currently no option for a through-hole variant because the tranistor do
 ### PCB Notes:
 - You can use either an LM2596S or and MP1584EN. Just move the mounting headers to the corresponding holes.
 - Connectors J19, J20, J21, J22 are optional. Either used for additional power output, or testing.
+- After assembly, set fan header output voltage **before** plugging any fans in.
+
+<br>
+
+### Buck Converter:
+To power the 40mm chassis fans the main 24V rail needs to be stepped down to 12V. This can be done with either an LM2596S or MP1584EN, on the PCB there's header holes and labels for both. The LM2596S is much more popular, but the MP1584EN is newer and has less EMC. MP1584EN comes in multiple variants, **make sure to get the variable one so you're able to tune the fan voltage**.
+
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/General/LM2596S.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/General/MP1584EN.png" width="40%" /> 
+</p>
 
 <br>
 
