@@ -1,6 +1,7 @@
 # Assembly:
 This section contains the bill of materials for each variant, as well as renders and exploded views of the sub-assemblies.
 
+- All trays mount to the racks with M5 hardware
 - For 3D printing all files have been exported as an STL
 - Blank parts have been exported as an STP to help editing
 - Metal parts are exported as an STP
@@ -239,7 +240,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | Front-2 | 19in_Dual-Front_2.stl | 3D Print (ABS/ASA) | 1        |
 | Back-1  | 19in_Dual-Back_1.stl  | 3D Print (ABS/ASA) | 1        |
 | Back-2  | 19in_Dual-Back_2.stl  | 3D Print (ABS/ASA) | 1        |
-| Divider | 19in_Dual-Divider.stl | 3D Print (ABS/ASA) | 1        |
+| Divider | 19in_Dual-Divider.stl | 3D Print (ABS/ASA) | 3        |
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual)
 
 #### **Hardware**
@@ -248,7 +249,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | M3 Low Profile Bolt | 5mm    | 42       |         |
 | M3 Plastic Washer   | -      | 8        |         |
 | M3 Insert           | -      | 48       |         |
-| M4 Low Profile Bolt | 5mm    | 10       |         |
+| M4 Low Profile Bolt | 5mm    | 14       |         |
 | M3 Cap Head         | 8mm    | 16       |         |
 
 <br>
@@ -273,7 +274,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | Front-2 | 19in_Dual_SBS-Front_2.stl | 3D Print (ABS/ASA) | 1        |
 | Back-1  | 19in_Dual_SBS-Back_1.stl  | 3D Print (ABS/ASA) | 1        |
 | Back-2  | 19in_Dual_SBS-Back_2.stl  | 3D Print (ABS/ASA) | 1        |
-| Divider | 19in_Dual_SBS-Divider.stl | 3D Print (ABS/ASA) | 1        |
+| Divider | 19in_Dual_SBS-Divider.stl | 3D Print (ABS/ASA) | 2        |
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual_SBS)
 
 #### **Hardware**
@@ -282,5 +283,5 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | M3 Low Profile Bolt | 5mm    | 42       |         |
 | M3 Plastic Washer   | -      | 8        |         |
 | M3 Insert           | -      | 48       |         |
-| M4 Low Profile Bolt | 5mm    | 10       |         |
+| M4 Low Profile Bolt | 5mm    | 12       |         |
 | M3 Cap Head         | 8mm    | 16       |         |
