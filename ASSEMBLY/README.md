@@ -22,8 +22,6 @@ This section contains the bill of materials for each variant, as well as renders
 ## Sub-Assemblies:
 There are two assemblies that are shared between the variants using a sheet metal housing.
 
-<br>
-
 ### PCB Tray:
 This PCB tray makes soldering the daughter boards easier, and allows the board to be installed and removed from the chassis easier.
 <p float="center">
