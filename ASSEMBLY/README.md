@@ -6,16 +6,30 @@ This section contains the bill of materials for each variant, as well as renders
 - Blank parts have been exported as an STP to help editing
 - Metal parts are exported as an STP
 - As the metal housing lids require tapping, there is an engineering drawing in the [drawings folder](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/DRAWINGS/Hardware)
+- Highly recommended to order extra insert and bolt hardware
 
 **All variants contain the following components:**
 
-| Component          | Quantity | Link/Location | Source |
-| ------------------ | -------- | ------------- | ------ |
-| PDU PCB Ver 1.0    | Depends on configuration |               | Shrikelab kit or buy PCB manufacturing service|
-| 16mm Button        | Depends on configuration |               | Shrikelab kit or buy online |
-| Button harness     | Depends on configuration |               | Shrikelab kit or comes with button |
-| Power harness      | Depends on configuration |               | Shrikelab kit or DIY|
+| Component          |Link/Location | Source |
+| ------------------ |------------- | ------ |
+| PDU PCB Ver 1.0    | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/PCB/Minilab_PDU_V1.zip | Shrikelab kit or buy PCB manufacturing service|
+| 16mm Button        | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Button.pdf | Shrikelab kit or buy online |
+| Button harness     | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Button.pdf | Shrikelab kit or comes with button |
+| Power harness      | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Power.pdf | Shrikelab kit or DIY|
 
+**Drawings of components can be found here:**
+| Component          |Link/Location | Source |
+| ------------------ |------------- | ------ |
+|**Hardwared**||
+| M3 Low Profile Bolt | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-LowProfile.png | - | 
+| M3 Cap Head Bolt    | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-CapHead.png | - |
+| M4 Low Profile Bolt | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-LowProfile.png | - |
+| M4 Cap Head Bolt    | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-CapHead.png | - | 
+| M3 Insert           | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/M3-Insert.pdf | - |
+|**Electrical**||
+| MP1584EN | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Buck_Board.png | Online (Search term: MP1584EN Buck Converter)|
+| Heatsink | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Heatsink.png | Online (Search term: 10x10x10mm Aluminium headsink) |
+| PD Board | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/PD_Board.png | Online (Search term: DC to 65w fast charging USB-C board) |
 
 <br>
 
@@ -86,13 +100,13 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Single)
 
 #### **Hardware**
-| Item                | Length | Quantity | Drawing |
-| ------------------- | ------ | -------- | ------- |
-| M3 Low Profile Bolt | 5mm    | 24       |         |
-| M3 Low Profile Bolt | 8mm    | 2        |         |
-| M3 Plastic Washer   | -      | 4        |         |
-| M4 Low Profile Bolt | 5mm    | 4        |         |
-| M3 Insert           | -      | 20       |         |
+| Item                | Length | Quantity |
+| ------------------- | ------ | -------- |
+| M3 Low Profile Bolt | 5mm    | 24       |
+| M3 Low Profile Bolt | 8mm    | 2        |
+| M3 Plastic Washer   | -      | 4        |
+| M4 Low Profile Bolt | 5mm    | 4        |
+| M3 Insert           | -      | 20       |
 
 <br>
 
@@ -113,11 +127,11 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_3D_Unibody)
 
 #### **Hardware**
-| Item                | Length | Quantity | Drawing |
-| ------------------- | ------ | -------- | ------- |
-| M3 Low Profile Bolt | 5mm    | 6        |         |
-| M3 Low Profile Bolt | 8mm    | 2        |         |
-| M3 Plastic Washer   | -      | 4        | -       |
+| Item                | Length | Quantity |
+| ------------------- | ------ | -------- |
+| M3 Low Profile Bolt | 5mm    | 6        |
+| M3 Low Profile Bolt | 8mm    | 2        |
+| M3 Plastic Washer   | -      | 4        |
 <br>
 
 ## 10 Inch - 3D Printed - Modular:
@@ -143,15 +157,15 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_3D_Modular)
 
 #### **Hardware**
-| Item                | Length | Quantity | Drawing |
-| ------------------- | ------ | -------- | ------- |
-| M3 Cap Head Bolt    | 8mm    | 28       |         |
-| M3 Cap Head Bolt    | 16mm   | 4        |         |
-| M3 Insert           | -      | 30       |         |
-| M4 Cap Head Bolt    | 5mm    | 7        |         |
-| M4 Low Profile Bolt | 3mm    | 1        |         |
-| M3 Low Profile Bolt | 5mm    | 2        |         |
-| Plastic Washer      | -      | 2        |         |
+| Item                | Length | Quantity |
+| ------------------- | ------ | -------- |
+| M3 Cap Head Bolt    | 8mm    | 28       |
+| M3 Cap Head Bolt    | 16mm   | 4        | 
+| M3 Insert           | -      | 30       | 
+| M4 Cap Head Bolt    | 5mm    | 7        |  
+| M4 Low Profile Bolt | 3mm    | 1        |   
+| M3 Low Profile Bolt | 5mm    | 2        |
+| Plastic Washer      | -      | 2        |
 
 <br>
 
@@ -175,12 +189,12 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Dual)
 
 #### **Hardware**
-| Item                | Length | Quantity | Drawing |
-| ------------------- | ------ | -------- | ------- |
-| M3 Low Profile Bolt | 5mm    | 32       |         |
-| M3 Low Profile Bolt | 8mm    | 4        |         |
-| M3 Plastic Washer   | -      | 8        |         |
-| M3 Insert           | -      | 30       |         |
+| Item                | Length | Quantity |
+| ------------------- | ------ | -------- |
+| M3 Low Profile Bolt | 5mm    | 32       |
+| M3 Low Profile Bolt | 8mm    | 4        |
+| M3 Plastic Washer   | -      | 8        |
+| M3 Insert           | -      | 30       |
 
 <br>
 
@@ -210,13 +224,13 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Single)
 
 #### **Hardware**
-| Item                | Length | Quantity | Drawing |
-| ------------------- | ------ | -------- | ------- |
-| M3 Low Profile Bolt | 5mm    | 36       |         |
-| M3 Plastic Washer   | -      | 4        |         |
-| M3 Insert           | -      | 40       |         |
-| M4 Low Profile Bolt | 5mm    | 4        |         |
-| M3 Cap Head         | 8mm    | 10       |         |
+| Item                | Length | Quantity |
+| ------------------- | ------ | -------- |
+| M3 Low Profile Bolt | 5mm    | 36       |
+| M3 Plastic Washer   | -      | 4        |
+| M3 Insert           | -      | 40       |
+| M4 Low Profile Bolt | 5mm    | 4        |
+| M3 Cap Head         | 8mm    | 10       |
 
 <br>
 
@@ -244,13 +258,13 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual)
 
 #### **Hardware**
-| Item                | Length | Quantity | Drawing |
-| ------------------- | ------ | -------- | ------- |
-| M3 Low Profile Bolt | 5mm    | 42       |         |
-| M3 Plastic Washer   | -      | 8        |         |
-| M3 Insert           | -      | 48       |         |
-| M4 Low Profile Bolt | 5mm    | 14       |         |
-| M3 Cap Head         | 8mm    | 16       |         |
+| Item                | Length | Quantity |
+| ------------------- | ------ | -------- | 
+| M3 Low Profile Bolt | 5mm    | 42       |
+| M3 Plastic Washer   | -      | 8        |
+| M3 Insert           | -      | 48       |  
+| M4 Low Profile Bolt | 5mm    | 14       |   
+| M3 Cap Head         | 8mm    | 16       | 
 
 <br>
 
@@ -278,10 +292,10 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual_SBS)
 
 #### **Hardware**
-| Item                | Length | Quantity | Drawing |
-| ------------------- | ------ | -------- | ------- |
-| M3 Low Profile Bolt | 5mm    | 42       |         |
-| M3 Plastic Washer   | -      | 8        |         |
-| M3 Insert           | -      | 48       |         |
-| M4 Low Profile Bolt | 5mm    | 12       |         |
-| M3 Cap Head         | 8mm    | 16       |         |
+| Item                | Length | Quantity |
+| ------------------- | ------ | -------- | 
+| M3 Low Profile Bolt | 5mm    | 42       |
+| M3 Plastic Washer   | -      | 8        | 
+| M3 Insert           | -      | 48       |   
+| M4 Low Profile Bolt | 5mm    | 12       |
+| M3 Cap Head         | 8mm    | 16       |
