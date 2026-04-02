@@ -14,7 +14,8 @@ This section contains the bill of materials for each variant, as well as renders
 | PDU PCB Ver 1.0    | [Drawing](https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/PCB/Minilab_PDU_V1.zip) | Shrikelab kit or buy PCB manufacturing service|
 | 16mm Button        | [Drawing](https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Button.pdf)  | Shrikelab kit or buy online |
 | Button harness     | [Drawing](https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Button.pdf)| Shrikelab kit or comes with button |
-| Power harness      | [Drawing](https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Power.pdf) | Shrikelab kit or DIY|
+| Power harness      | [Drawing](https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Power.pdf) | Shrikelab kit or DIY |
+| 40mm cooling fan     | - | - |
 
 ### Drawings of components can be found here:
 **Hardware:**
