@@ -17,16 +17,18 @@ This section contains the bill of materials for each variant, as well as renders
 | Button harness     | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Button.pdf | Shrikelab kit or comes with button |
 | Power harness      | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Harness-Power.pdf | Shrikelab kit or DIY|
 
-**Drawings of components can be found here:**
+#### Drawings of components can be found here:
+**Hardwared**
 | Component          |Link/Location | Source |
 | ------------------ |------------- | ------ |
-|**Hardwared**||
 | M3 Low Profile Bolt | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-LowProfile.png | - | 
 | M3 Cap Head Bolt    | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-CapHead.png | - |
 | M4 Low Profile Bolt | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-LowProfile.png | - |
 | M4 Cap Head Bolt    | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-CapHead.png | - | 
 | M3 Insert           | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/M3-Insert.pdf | - |
-|**Electrical**||
+**Electrical**
+| Component          |Link/Location | Source |
+| ------------------ |------------- | ------ |
 | MP1584EN | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Buck_Board.png | Online (Search term: MP1584EN Buck Converter)|
 | Heatsink | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/Heatsink.png | Online (Search term: 10x10x10mm Aluminium headsink) |
 | PD Board | https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/PD_Board.png | Online (Search term: DC to 65w fast charging USB-C board) |
