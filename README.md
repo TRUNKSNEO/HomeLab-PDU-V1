@@ -37,7 +37,7 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 
 [**Design and build video here**](https://www.youtube.com/watch?v=8tTG0TBM7ts)
 
-[**Follow-up and testing video here**](youtube.com)
+[**Follow-up and testing video here**](https://www.youtube.com/watch?v=Ig7oZpujHtc&t)
 
 <br>
 
