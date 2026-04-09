@@ -76,6 +76,9 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 ### Issues:
 There's a lot of ground to cover with this repo, so if you find an issue, please raise it with the GitHub issue system and it will get fixed. If you have questions about assembly or any of the variants, please make sure you have read through all the readme content before reaching out to save on time.
 
+### ToDo:
+- Export all sheet metal STEP files in 1.2mm thickness for imperial
+
 # Variants:
 All variants are built around a Meanwell HRP-300-24 and the same PCB. The housings are designed to fit in 1U of space in either a 10in and 19in server rack. 
 
