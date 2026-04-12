@@ -25,6 +25,8 @@ THe board assembly contains 5 USB-C power delivery modules that are based on an 
 
 **High Power PDO:** 5V/3A, 9V/3A, 12V/3A
 
+There's an interesting article [here](https://mysku.club/blog/aliexpress/101076.html) (is in Russian so will need translating) that goes over the thermal performance of the power delivery chips at 65W.
+
 <p float="center">
   <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/PD_Board.png" width="30%" /> 
 </p>
