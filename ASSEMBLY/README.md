@@ -47,14 +47,14 @@ This PCB tray makes soldering the daughter boards easier, and allows the board t
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/General/PCB-SubAssembly.png" width="33%" />
 </p>
 
-| Component          | Quantity | Link/Location | Source |
-| ------------------ | -------- | ------------- | ------ |
-| PDU PCB Ver 1.0    | 1        | [STL](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/PCB/1U_Minilab_PSU_V2.zip) |        |
-| PCB Tray           | 1        | [STL](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/CAD/Universal/PCB_Tray.stl) |        |
-| USB-C 65W PD Board | 5        | [Image](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/DRAWINGS/Electrial/Heatsink.png) |        |
-| Heatsink           | 5        | [Drawing](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/DRAWINGS/Electrial/Heatsink.png) |        |
-| PCB Reinforement   | 1        | [STL](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/CAD/Universal/Reinforcement_Bracket.stl) |        |
-| Buck Converter     | 1        | [Image](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/DRAWINGS/Electrial/Buck_Board.png) |        |
+| Component          | Quantity | Link/Location |
+| ------------------ | -------- | ------------- |
+| PDU PCB Ver 1.0    | 1        | [Gerber](https://github.com/Shrike-Lab/HomeLab-PDU-V1/tree/main/PCB) |        
+| PCB Tray           | 1        | [STL](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/CAD/Universal/PCB_Tray.stl) |       
+| USB-C 65W PD Board | 5        | [Image](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/DRAWINGS/Electrial/Heatsink.png) |        
+| Heatsink           | 5        | [Drawing](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/DRAWINGS/Electrial/Heatsink.png) |    
+| PCB Reinforement   | 1        | [STL](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/CAD/Universal/Reinforcement_Bracket.stl) |     
+| Buck Converter     | 1        | [Image](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/DRAWINGS/Electrial/Buck_Board.png) |       
 
 <br>
 
