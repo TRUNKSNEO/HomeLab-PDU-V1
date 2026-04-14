@@ -112,7 +112,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 
 ## 10 Inch - 3D Printed - Modular:
-10" printed enclosure, made to be more modular and mod-friendly but requires more M3 inserts and bolts to assebmle.
+10" printed enclosure, made to be more modular and mod-friendly but requires more M3 inserts and bolts to assebmle. The CAD folder for this variant also includes 'flipped' front and rear STLs that have the mounting tabs swapped, so that the USB-C ports and power intput will face the front of the rack instead of the rear.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Modular/10in_3D_Modular-A.png" width="80%" /> 
 </p>
